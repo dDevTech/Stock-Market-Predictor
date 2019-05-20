@@ -24,6 +24,7 @@ The file of web scraping is **StockScraper.py**
 This steps are esential for the next steps
 
 Optional
+
 -Use **visualize_data()** to see the plot of the correlation between companies (it will take some time)
 
 # Training the netwok
@@ -34,5 +35,7 @@ You can use whatever company symbol you want
 
 #Analyze data
 Use the jupyter notebook **StockMarket.ipynb**
+
 You will be able to see step by step the different analyze tools and also the training of a company
+
 The company can be change at the bottom of the notebook
